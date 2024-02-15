@@ -17,7 +17,7 @@ The model helps in identifying and diagnosing diseases in plants with precision 
 - [https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 
 ## Deployment
-- Visit the [live app](https://findplantdisease.onrender.com) to find the Plant disease.
+- Visit the [live app](https://findplantdisease.onrender.com) to find the Plant disease | [Other app](https://find-plant-disease.streamlit.app/)
 
 ## Get Started
 
