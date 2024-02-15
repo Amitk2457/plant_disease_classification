@@ -14,11 +14,10 @@ The model helps in identifying and diagnosing diseases in plants with precision 
 - Pillow
 
 ## Data Source
-- [https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
+- https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 ## Deployment
-- Visit the [live app](https://findplantdisease.onrender.com) to find the Plant disease | [Other app](https://find-plant-disease.streamlit.app/)
-
+- Visit the [live app](https://find-plant-disease.streamlit.app/) to find the Plant disease 
 ## Get Started
 
 ```bash
